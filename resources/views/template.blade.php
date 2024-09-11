@@ -39,9 +39,8 @@
 
         </div>
         <!-- End of Content Wrapper -->
-        @include('template.login')
+        
 
-        @include('template.register')
     </div>
     <!-- End of Page Wrapper -->
 
