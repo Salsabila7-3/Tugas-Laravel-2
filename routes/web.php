@@ -44,3 +44,17 @@ Route::get('template', function () {
     return view('template');
 });
 
+
+Route::get('template', function () {
+    return view('template');
+});
+
+
+Route::get('login', function () {
+    return view('login');
+});
+
+
+Route::get('register', function () {
+    return view('template.register');
+});
