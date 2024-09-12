@@ -24,12 +24,6 @@
             <span>Praktik</span></a>
     </li>
 
-    <!-- Nav Item - Dashboard -->
-    <li class="nav-item">
-        <a class="nav-link" href="navbar">
-            <i class="fas fa-fw fa-tachometer-alt"></i>
-            <span>navbar</span></a>
-    </li>
 
     <!-- Divider -->
     <hr class="sidebar-divider">
